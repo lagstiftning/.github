@@ -1,6 +1,10 @@
 {
   "folders": [
     {
+      "name": "aml",
+      "path": "aml"
+    },
+    {
       "name": "autoindex",
       "path": "autoindex"
     },

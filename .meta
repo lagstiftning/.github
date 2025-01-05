@@ -1,5 +1,6 @@
 {
   "projects": {
+    "aml": "git@github.com:lagstiftning/aml.git",
     "autoindex": "git@github.com:lagstiftning/autoindex.git",
     "lagstiftning.github.io": "git@github.com:lagstiftning/lagstiftning.github.io.git",
     "law": "git@github.com:lagstiftning/law.git",

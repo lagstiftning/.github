@@ -1,12 +1,19 @@
 {
   "folders": [
     {
+      "name": "autoindex",
       "path": "autoindex"
     },
     {
+      "name": "lagstiftning.github.io",
+      "path": "lagstiftning.github.io"
+    },
+    {
+      "name": "law",
       "path": "law"
     },
     {
+      "name": "mbl",
       "path": "mbl"
     }
   ],

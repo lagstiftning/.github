@@ -1,5 +1,6 @@
 {
   "projects": {
-    "autoindex": "git@github.com:lagstiftning/autoindex.git"
+    "autoindex": "git@github.com:lagstiftning/autoindex.git",
+    "law": "git@github.com:lagstiftning/law.git"
   }
 }

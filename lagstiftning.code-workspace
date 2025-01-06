@@ -1,8 +1,8 @@
 {
   "folders": [
     {
-      "name": "aml",
-      "path": "aml"
+      "name": "arbetsmiljolagen",
+      "path": "arbetsmiljolagen"
     },
     {
       "name": "autoindex",
@@ -17,6 +17,7 @@
       "path": "law"
     },
     {
+      "name": "medbestammandelagen",
       "path": "medbestammandelagen"
     }
   ],

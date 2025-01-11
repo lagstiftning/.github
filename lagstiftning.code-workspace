@@ -5,6 +5,10 @@
       "path": "arbetsmiljolagen"
     },
     {
+      "name": "arbetstidslagen",
+      "path": "arbetstidslagen"
+    },
+    {
       "name": "autoindex",
       "path": "autoindex"
     },

@@ -5,6 +5,7 @@
     "lagstiftning.github.io": "git@github.com:lagstiftning/lagstiftning.github.io.git",
     "law": "git@github.com:lagstiftning/law.git",
     "medbestammandelagen": "git@github.com:lagstiftning/medbestammandelagen.git",
-    "lagen-om-anstallningsskydd": "git@github.com:lagstiftning/lagen-om-anstallningsskydd.git"
+    "lagen-om-anstallningsskydd": "git@github.com:lagstiftning/lagen-om-anstallningsskydd.git",
+    "arbetstidslagen": "git@github.com:lagstiftning/arbetstidslagen.git"
   }
 }
